@@ -1,4 +1,6 @@
-# ACEest Fitness & Gym DevOps Assignment
+STUDENT DETAILS
+Name : Devisree N 
+Course : Introduction to DevOps# ACEest Fitness & Gym DevOps Assignment
 
 A small Flask REST application prepared for the BITS Pilani Introduction to DevOps assignment. It demonstrates Git/GitHub version control, Pytest, Docker, GitHub Actions, and a Jenkins BUILD quality gate.
 
